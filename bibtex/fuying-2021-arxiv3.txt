@@ -1,8 +1,0 @@
-@misc{han2021disentangled,
-      title={Disentangled Face Attribute Editing via Instance-Aware Latent Space Search}, 
-      author={Yuxuan Han and Jiaolong Yang and Ying Fu},
-      year={2021},
-      eprint={2105.12660},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
