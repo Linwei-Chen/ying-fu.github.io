@@ -1,7 +1,7 @@
-@InProceedings{fuying-2019-cvpr2,
-author = {Fu, Ying and Zhang, Tao and Zheng, Yinqiang and Zhang, Debing and Huang, Hua},
-title = {Hyperspectral Image Super-Resolution With Optimized RGB Guidance},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
+@inproceedings{fu2019hyperspectral,
+  title={Hyperspectral image super-resolution with optimized RGB guidance},
+  author={Fu, Ying and Zhang, Tao and Zheng, Yinqiang and Zhang, Debing and Huang, Hua},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11661--11670},
+  year={2019}
 }

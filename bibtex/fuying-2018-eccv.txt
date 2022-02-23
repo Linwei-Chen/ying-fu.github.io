@@ -1,7 +1,7 @@
-@InProceedings{fuying-2018-eccv,
-author = {Fu, Ying and Zhang, Tao and Zheng, Yinqiang and Zhang, Debing and Huang, Hua},
-title = {Joint Camera Spectral Sensitivity Selection and Hyperspectral Image Recovery},
-booktitle = {The European Conference on Computer Vision (ECCV)},
-month = {September},
-year = {2018}
+@inproceedings{fu2018joint,
+  title={Joint camera spectral sensitivity selection and hyperspectral image recovery},
+  author={Fu, Ying and Zhang, Tao and Zheng, Yinqiang and Zhang, Debing and Huang, Hua},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={788--804},
+  year={2018}
 }

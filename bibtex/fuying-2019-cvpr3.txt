@@ -1,7 +1,7 @@
-@InProceedings{fuying-2019-cvpr3,
-author = {Wang, Lizhi and Sun, Chen and Fu, Ying and Kim, Min H. and Huang, Hua},
-title = {Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
+@inproceedings{wang2019hyperspectral,
+  title={Hyperspectral image reconstruction using a deep spatial-spectral prior},
+  author={Wang, Lizhi and Sun, Chen and Fu, Ying and Kim, Min H and Huang, Hua},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8032--8041},
+  year={2019}
 }

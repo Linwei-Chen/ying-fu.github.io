@@ -1,10 +1,10 @@
-@article{fuying-2019-oe,
-author = {Fu, Ying and Zou, Yunhao and Zheng, Yinqiang and Huang, Hua},
-year = {2019},
-month = {10},
-pages = {30502},
-title = {Spectral reflectance recovery using optimal illuminations},
-volume = {27},
-journal = {Optics Express},
-doi = {10.1364/OE.27.030502}
+@article{fu2019spectral,
+  title={Spectral reflectance recovery using optimal illuminations},
+  author={Fu, Ying and Zou, Yunhao and Zheng, Yinqiang and Huang, Hua},
+  journal={Optics Express},
+  volume={27},
+  number={21},
+  pages={30502--30516},
+  year={2019},
+  publisher={Optical Society of America}
 }

@@ -1,22 +1,8 @@
-@InProceedings{10.1007/978-3-030-88010-1_6,
-author="Zeng, Yuhang
-and Zou, Yunhao
-and Fu, Ying",
-editor="Ma, Huimin
-and Wang, Liang
-and Zhang, Changshui
-and Wu, Fei
-and Tan, Tieniu
-and Wang, Yaonan
-and Lai, Jianhuang
-and Zhao, Yao",
-title="{\$}{\$}{\backslash}mathrm 3D^2Unet{\$}{\$}: 3D Deformable Unet for Low-Light Video Enhancement",
-booktitle="Pattern Recognition and Computer Vision",
-year="2021",
-publisher="Springer International Publishing",
-address="Cham",
-pages="66--77",
-abstract="Video recording suffers from noise, artifacts, low illumination, and weak contrast under low-light conditions. With such difficulties, it is challenging to recover a high-quality video from the corresponding low-light one. Previous works have proven that convolutional neural networks perform well on low-light image tasks, and these methods are further extended to the video processing field. However, existing video recovery methods fail to fully exploit the long-range spatial and temporal dependency simultaneously. In this paper, we propose a 3D deformable network based on Unet-like architecture ({\$}{\$}{\backslash}mathrm 3D^2Unet{\$}{\$}3D2Unet) for low-light video enhancement, which recovers RGB formatted videos from RAW sensor data. Specifically, we adopt a spatial temporal adaptive block with 3D deformable convolutions to better adapt the varying features of videos along spatio-temporal dimensions. In addition, a global residual projection is employed to further boost learning efficiency. Experimental results demonstrate that our method outperforms state-of-the-art low-light video enhancement works.",
-isbn="978-3-030-88010-1"
+@inproceedings{zeng2021mathrm,
+  title={$$$\backslash$mathrm 3D\^{} 2Unet $$: 3D Deformable Unet for Low-Light Video Enhancement},
+  author={Zeng, Yuhang and Zou, Yunhao and Fu, Ying},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={66--77},
+  year={2021},
+  organization={Springer}
 }
-

@@ -1,12 +1,9 @@
-@article{ZHENG2021107647,
-title = {A large-scale hyperspectral dataset for flower classification},
-journal = {Knowledge-Based Systems},
-pages = {107647},
-year = {2021},
-issn = {0950-7051},
-doi = {https://doi.org/10.1016/j.knosys.2021.107647},
-url = {https://www.sciencedirect.com/science/article/pii/S0950705121009096},
-author = {Yongrong Zheng and Tao Zhang and Ying Fu},
-keywords = {Hyperspectral image dataset, Flower classification, Fine-grained classification},
-abstract = {Flowers have great cultural value, economic value and ecological value in our life. Accurate classification of flowers facilitates various applications of flowers. However, existing datasets for the visual classification task mainly focus on common RGB images. It limits the application of powerful deep learning techniques on specific domains like the spectral analysis of flowers. In this paper, we collect a large-scale hyperspectral flower image dataset named HFD100 for flower classification. Specifically, it contains more than 10700 hyperspectral images which belong to 100 categories. In addition, we perform several baseline experiments on the HFD100 dataset. Experimental results show that this dataset brings the challenges of inter and intra-class variance. We believe our HFD100 will facilitate future research on flower classification, spectral analysis of flowers and fine-grained classification. The collected dataset will be publicly available to the community.}
+@article{zheng2022large,
+  title={A large-scale hyperspectral dataset for flower classification},
+  author={Zheng, Yongrong and Zhang, Tao and Fu, Ying},
+  journal={Knowledge-Based Systems},
+  volume={236},
+  pages={107647},
+  year={2022},
+  publisher={Elsevier}
 }

@@ -1,10 +1,9 @@
-@article{fuying-2019-neurocomputing3,
-author = {Xiang, Ye and Fu, Ying and Huang, Hua},
-year = {2019},
-month = {08},
-pages = {},
-title = {Global Relative Position Space based Pooling for Fine-Grained Vehicle Recognition},
-volume = {367},
-journal = {Neurocomputing},
-doi = {10.1016/j.neucom.2019.07.098}
+@article{xiang2019global,
+  title={Global relative position space based pooling for fine-grained vehicle recognition},
+  author={Xiang, Ye and Fu, Ying and Huang, Hua},
+  journal={Neurocomputing},
+  volume={367},
+  pages={287--298},
+  year={2019},
+  publisher={Elsevier}
 }

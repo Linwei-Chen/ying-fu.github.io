@@ -1,8 +1,9 @@
-@ARTICLE{fuying-2019-tip,
-  author={L. {Wang} and T. {Zhang} and Y. {Fu} and H. {Huang}},
-  journal={IEEE Transactions on Image Processing}, 
-  title={HyperReconNet: Joint Coded Aperture Optimization and Image Reconstruction for Compressive Hyperspectral Imaging}, 
-  year={2019},
+@article{wang2019hyperreconnet,
+  title={HyperReconNet: Joint Coded Aperture Optimization and Image Reconstruction for Compressive Hyperspectral Imaging},
+  author={Wang, Lizhi and Zhang, Tao and Fu, Ying and Huang, Hua},
+  journal={IEEE Transactions on Image Processing},
   volume={28},
   number={5},
-  pages={2257-2270},}
+  pages={2257--2270},
+  year={2019}
+}

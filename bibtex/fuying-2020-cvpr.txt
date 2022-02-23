@@ -1,8 +1,7 @@
-
-@InProceedings{Wei_2020_CVPR,
-author = {Wei, Kaixuan and Fu, Ying and Yang, Jiaolong and Huang, Hua},
-title = {A Physics-Based Noise Formation Model for Extreme Low-Light Raw Denoising},
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
+@inproceedings{wei2020physics,
+  title={A physics-based noise formation model for extreme low-light raw denoising},
+  author={Wei, Kaixuan and Fu, Ying and Yang, Jiaolong and Huang, Hua},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2758--2767},
+  year={2020}
 }

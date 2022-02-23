@@ -1,7 +1,7 @@
-@InProceedings{fuying-2019-cvpr,
-author = {Wei, Kaixuan and Yang, Jiaolong and Fu, Ying and Wipf, David and Huang, Hua},
-title = {Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
+@inproceedings{wei2019single,
+  title={Single image reflection removal exploiting misaligned training data and network enhancements},
+  author={Wei, Kaixuan and Yang, Jiaolong and Fu, Ying and Wipf, David and Huang, Hua},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8178--8187},
+  year={2019}
 }

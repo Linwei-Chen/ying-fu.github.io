@@ -1,8 +1,0 @@
-@misc{shao2021localtrans,
-      title={LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation}, 
-      author={Ruizhi Shao and Gaochang Wu and Yuemei Zhou and Ying Fu and Yebin Liu},
-      year={2021},
-      eprint={2106.04067},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
