@@ -1,0 +1,5 @@
+@article{zhang2022deep,
+  title={Deep Spatial Adaptive Network for Real Image Demosaicing},
+  author={Zhang, Tao and Fu, Ying and Li, Cheng},
+  year={2022}
+}
