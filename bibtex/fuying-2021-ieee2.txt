@@ -1,9 +1,10 @@
-@ARTICLE{9511233,
+@article{wei2021physics,
+  title={Physics-based noise modeling for extreme low-light photography},
   author={Wei, Kaixuan and Fu, Ying and Zheng, Yinqiang and Yang, Jiaolong},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Physics-based Noise Modeling for Extreme Low-light Photography}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TPAMI.2021.3103114}}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={11},
+  pages={8520-8537},
+  year={2022},
+  publisher={IEEE}
+}

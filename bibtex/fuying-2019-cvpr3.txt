@@ -2,6 +2,6 @@
   title={Hyperspectral image reconstruction using a deep spatial-spectral prior},
   author={Wang, Lizhi and Sun, Chen and Fu, Ying and Kim, Min H and Huang, Hua},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={8032--8041},
+  pages={8032-8041},
   year={2019}
 }

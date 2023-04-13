@@ -2,7 +2,7 @@
   title={Snapshot Multiplexed Imaging Based on Compressive Sensing},
   author={Fu, Ying and Sun, Chen and Wang, Lizhi and Huang, Hua},
   booktitle={Pacific Rim Conference on Multimedia},
-  pages={465--475},
+  pages={465-475},
   year={2018},
   organization={Springer}
 }
