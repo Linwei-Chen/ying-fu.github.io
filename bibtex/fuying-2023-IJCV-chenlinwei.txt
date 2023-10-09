@@ -1,8 +1,10 @@
-@INPROCEEDINGS{fuying-2023-siggraph,
-  author={Zeqiang Lai and Kaixuan Weiand Ying Fu and Philipp Härtel and Felix Heide},
-  booktitle={SIGGRAPH ACM Transactions on Graphics}, 
-  title={∇-Prox: Differentiable Proximal Algorithm Modeling for Large-Scale Optimization}, 
+@article{2023lis,
+  title={Instance Segmentation in the Dark},
+  author={Chen, Linwei and Fu, Ying and Wei, Kaixuan and Zheng, Dezhi and Heide, Felix},
+  journal={International Journal of Computer Vision},
+  volume={131},
+  number={8},
+  pages={2198-2218},
   year={2023},
-  volume={1},
-  number={1},
-  pages={1-19},}
+  publisher={Springer}
+}
