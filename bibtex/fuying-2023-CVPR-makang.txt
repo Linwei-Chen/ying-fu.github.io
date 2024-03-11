@@ -1,7 +1,7 @@
-@inproceedings{zhang2023learning,
-  title={Learning Rain Location Prior for Nighttime Deraining},
-  author={Zhang, Fan and You, Shaodi and Li, Yu and Fu, Ying},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={13148--13157},
+@inproceedings{ma2023dynamic,
+  title={Dynamic aggregated network for gait recognition},
+  author={Ma, Kang and Fu, Ying and Zheng, Dezhi and Cao, Chunshui and Hu, Xuecai and Huang, Yongzhen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22076--22085},
   year={2023}
 }
