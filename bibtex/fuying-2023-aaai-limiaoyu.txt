@@ -1,0 +1,9 @@
+@inproceedings{li2023spatial,
+  title={Spatial-spectral transformer for hyperspectral image denoising},
+  author={Li, Miaoyu and Fu, Ying and Zhang, Yulun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={1},
+  pages={1368--1376},
+  year={2023}
+}
