@@ -1,0 +1,7 @@
+@inproceedings{Zhang_2024_CVPR,
+  title={Binarized Low-light Raw Video Enhancement},
+  author={Zhang, Gengchen and Zhang, Yulun and Yuan, Xin and Fu, Ying},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={25753-25762},
+  year={2024}
+}
